@@ -7,7 +7,7 @@ import { Main } from './styled';
 const Home: React.FC = () => {
   return (
     <>
-      <Navbar />
+      <Navbar visible />
       <Container>
         <Head>
           <title>Create Next App</title>
