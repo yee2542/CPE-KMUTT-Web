@@ -1,6 +1,9 @@
-import Container from 'common/components/Container';
-import Head from 'next/head';
 import React from 'react';
+
+import Head from 'next/head';
+
+import Container from 'common/components/Container';
+
 import { Main } from './styled';
 
 const Home: React.FC = () => {
